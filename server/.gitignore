@@ -1,0 +1,6 @@
+node_modules
+forSaving.txt
+*.txt
+.env
+dist
+CHANGE_TO_DOT_ENV.txt
