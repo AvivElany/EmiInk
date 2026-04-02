@@ -1,0 +1,5 @@
+git add .
+git commit -m "עדכון פרויקט"
+git push origin main
+
+npm run dev
