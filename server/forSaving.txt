@@ -1,5 +1,5 @@
 git add .
-git commit -m "עדכון פרויקט"
+git commit -m "עדכון שרת ראשוני"
 git push origin main
 
 npm run dev
